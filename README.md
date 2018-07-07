@@ -1,25 +1,43 @@
-# Weekend Challenge
+# Weekend Challenge - Chitter in Java
+
+## Features:
+```
+STRAIGHT UP
+
+As a Maker
+So that I can let people know what I am doing  
+I want to post a message (peep) to chitter
+
+As a maker
+So that I can see what others are saying  
+I want to see all peeps in reverse chronological order
+
+As a Maker
+So that I can better appreciate the context of a peep
+I want to see the time at which it was made
+
+As a Maker
+So that I can post messages on Chitter as me
+I want to sign up for Chitter
+
+HARDER
+
+As a Maker
+So that only I can post messages on Chitter as me
+I want to log in to Chitter
+
+As a Maker
+So that I can avoid others posting messages on Chitter as me
+I want to log out of Chitter
+
+ADVANCED
+
+As a Maker
+So that I can stay constantly tapped in to the shouty box of Chitter
+I want to receive an email if I am tagged in a Peep
+```
+
+## Step by step:
+-
 
 
-### Instructions
-
-1. Fork and clone this repository.
-2. Choose one of the following projects to build a Springboot application
-
-3. Open a Pull Request back to this base GitHub repository (it will update with changes as you keep pushing)
-4. Build the project!
-
-
-## 1. RPS
-
-More details here: https://github.com/makersacademy/rps-challenge
-
-
-## 2. Chitter (without users)
-
-More details here: https://github.com/makersacademy/chitter-challenge
-
-
-## 3. Chitter (with user sign up/log in)
-
-More details here: https://github.com/makersacademy/chitter-challenge
