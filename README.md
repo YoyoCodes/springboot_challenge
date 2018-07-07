@@ -37,7 +37,10 @@ So that I can stay constantly tapped in to the shouty box of Chitter
 I want to receive an email if I am tagged in a Peep
 ```
 
-## Step by step:
--
+## Implementation:
+- added Maven dependencies to pom.xml file
+- added the Main Class for the application - Chitter Application
+- created the "peep" domain object using annotations required to describe the object as a database entity
+- implemented the persistence layer of the aplication
 
 
