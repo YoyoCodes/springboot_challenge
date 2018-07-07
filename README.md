@@ -41,6 +41,7 @@ I want to receive an email if I am tagged in a Peep
 - added Maven dependencies to pom.xml file
 - added the Main Class for the application - Chitter Application
 - created the "peep" domain object using annotations required to describe the object as a database entity
-- implemented the persistence layer of the aplication
+- implemented the persistence by adding PeepRepository to the aplication
+- added view index.html with a greeting message
 
 
